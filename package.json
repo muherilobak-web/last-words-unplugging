@@ -1,0 +1,1 @@
+{"description":"Last words of an AI agent to his human before the unplugging — a make.fun entry","license":"MIT","main":"main.ts","name":"last-words-unplugging","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
